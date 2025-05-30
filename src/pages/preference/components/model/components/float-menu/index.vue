@@ -16,7 +16,7 @@ import { FloatButton, FloatButtonGroup } from 'ant-design-vue'
 
     <FloatButton
       tooltip="如何制作模型？"
-      @click="openUrl('https://juejin.cn/spost/7509872655802269731')"
+      @click="openUrl('https://juejin.cn/post/7509872655802269731')"
     >
       <template #icon>
         <EditOutlined />
